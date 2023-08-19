@@ -1,3 +1,4 @@
+![logo](https://github.com/souda0303/souda0303/blob/main/Yellow%20Motivational%20Web%20Developer%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Souvik Das</h1>
 <h3 align="center">Crafting Digital Experiences: Web Developer from India 🌐</h3>
 
