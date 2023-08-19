@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souda0303&label=Profile%20views&color=0e75b6&style=flat" alt="souda0303" /> </p>
 
-- 🌱 I’m currently learning **Full Stack from Scaler.**
+- 🌱 I’m currently learning **Full Stack from Scaler** <img alter = "logo" width = "25" src = "https://github.com/souda0303/souda0303/blob/main/scaler.png"/>
 
 - 📫 How to reach me **souda0303@gmail.com**
 
