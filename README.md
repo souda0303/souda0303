@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Das</h1>
 <h3 align="center">Crafting Digital Experiences: Web Developer from India 🌐</h3>
 
-<img align = "right" alter = "coding" height = "500" width = "600" src = "https://raw.githubusercontent.com/Axhutoxh/Axhutoxh/main/banner.gif">
+<img align = "right" alter = "coding" height = "250" width = "550" src = "https://raw.githubusercontent.com/Axhutoxh/Axhutoxh/main/banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souda0303&label=Profile%20views&color=0e75b6&style=flat" alt="souda0303" /> </p>
 
