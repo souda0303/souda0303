@@ -52,6 +52,6 @@
 
 </h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souda0303&show_icons=true&locale=en&layout=compact" alt="souda0303" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souda0303&show_icons=true&locale=en&layout=compact" alt="souda0303" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souda0303&show_icons=true&locale=en" alt="souda0303" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souda0303&show_icons=true&locale=en" alt="souda0303" /></p>
