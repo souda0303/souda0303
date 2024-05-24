@@ -20,7 +20,8 @@
 <h3 align="left">Certification:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/souda0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souda0303" height="30" width="40" /></a>
-<a href="https://www.scaler.com/academy/profile/70280cd7042b/" target="blank"><img align="center" src="https://scaler-blog-prod-wp-content.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/09/22114305/Scaler-HT-1-.png" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/certification/fcc514ee90c-1a88-4689-b870-bff31e2e3512/responsive-web-design" target="blank"><img align="center" src="https://toppng.com/uploads/preview/free-code-camp-logo-11609361946wmlb77ykkb.png" alt="souda0303" height="30" width="40" /></a>
+<a href="https://www.scaler.com/academy/profile/70280cd7042b/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbNDUlOFky_wMWl6MEo5pkojEcUZMy3JHKdclbw4J1w&s" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
