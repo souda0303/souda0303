@@ -40,7 +40,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <h2 align = "center">My Slill in Stack</h2>
-<h4 align = "center">
+<p align = "center">
 
 |               |           |
 |       ---     |    ---    |
@@ -48,9 +48,11 @@
 | `Languages`   | ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E8D44D?logo=JavaScript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)|
 | `Tools`       | ![VS Code](https://img.shields.io/badge/VS%20Code-white?logo=visualstudiocode&logoColor=0062A4) ![Git](https://img.shields.io/badge/git-D74A34?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-white?logo=figma) ![MUI](https://img.shields.io/badge/MUI-white?logo=mui) ![PS](https://img.shields.io/badge/PS-001D34?logo=adobe%20photoshop) ![Postman](https://img.shields.io/badge/Postman-white?logo=postman)| 
 
+</p>
 
 
-</h4>
+###
+
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souda0303&show_icons=true&locale=en&layout=compact" alt="souda0303" /></p>
 
